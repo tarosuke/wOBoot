@@ -1,2 +1,4 @@
 # wOBoot
-The codes between from bootloader to C++ codes
+This is a template for bare-metal projects contains...
+* the codes bufore C++ codes
+* multi architecture build system
